@@ -6,6 +6,7 @@
 3. [sections](#section)
 4. [navbar](#navbar)
 
+## Url: https://sohila-samir.github.io/landing-page/
 
 ## Instructions
 + in order to set up the project:
